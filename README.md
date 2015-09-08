@@ -1,4 +1,4 @@
-# DigestEmail [![Build Status](https://travis-ci.org/PeterHamilton/digest-email.png)](https://travis-ci.org/PeterHamilton/digest-email)
+j	# DigestEmail [![Build Status](https://travis-ci.org/PeterHamilton/digest-email.png)](https://travis-ci.org/PeterHamilton/digest-email)
 
 This is a project put together over a few evenings by [Peter Hamilton](http://peterhamilton.github.com).
 The overall aim was to simplify the process of generating weekly Computing Society emails for students.
